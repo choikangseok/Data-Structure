@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wishlist", "Wishlist\Wishlist.vcxproj", "{5D8E4659-7B44-4F0D-AEE8-9B8E586A3549}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayLinkedList", "ArrayLinkedList\ArrayLinkedList.vcxproj", "{CBA2741D-505B-4FA0-9E46-D792A03F3312}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WishlistPointer", "WishlistPointer\WishlistPointer.vcxproj", "{B1318C0C-C397-4686-83A1-B75840BEF670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8E4659-7B44-4F0D-AEE8-9B8E586A3549}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D8E4659-7B44-4F0D-AEE8-9B8E586A3549}.Debug|Win32.Build.0 = Debug|Win32
+		{5D8E4659-7B44-4F0D-AEE8-9B8E586A3549}.Release|Win32.ActiveCfg = Release|Win32
+		{5D8E4659-7B44-4F0D-AEE8-9B8E586A3549}.Release|Win32.Build.0 = Release|Win32
+		{CBA2741D-505B-4FA0-9E46-D792A03F3312}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBA2741D-505B-4FA0-9E46-D792A03F3312}.Debug|Win32.Build.0 = Debug|Win32
+		{CBA2741D-505B-4FA0-9E46-D792A03F3312}.Release|Win32.ActiveCfg = Release|Win32
+		{CBA2741D-505B-4FA0-9E46-D792A03F3312}.Release|Win32.Build.0 = Release|Win32
+		{B1318C0C-C397-4686-83A1-B75840BEF670}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1318C0C-C397-4686-83A1-B75840BEF670}.Debug|Win32.Build.0 = Debug|Win32
+		{B1318C0C-C397-4686-83A1-B75840BEF670}.Release|Win32.ActiveCfg = Release|Win32
+		{B1318C0C-C397-4686-83A1-B75840BEF670}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
